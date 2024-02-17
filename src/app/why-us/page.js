@@ -376,7 +376,7 @@ export default function Home() {
                     <div className="sec-title mb-1">
                       <span className="sub-title">
                         About Blitz Learning Technologies 
-                        s
+                        
                       </span>
                       <h2>Dedicated and professional consulting services</h2>
                     </div>
