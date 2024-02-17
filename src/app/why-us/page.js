@@ -215,12 +215,12 @@ export default function Home() {
                         <div className="icon-box">
                         <img
                             className="icon-04"
-                            src="/assets/why-us/heigh reliability.png"
+                            src="/assets/why-us/Picture4.png"
                           ></img>
                         </div>
                         <h3>
-                          <Link href="/investment-policy">
-                            Global delivery{" "}
+                          <Link href="/">
+                            Global delivery
                           </Link>
                         </h3>
                         <p>
@@ -253,7 +253,7 @@ export default function Home() {
                         <div className="icon-box">
                         <img
                             className="icon-04"
-                            src="/assets/why-us/heigh reliability.png"
+                            src="/assets/why-us/Proven growth record2.png"
                           ></img>
                         </div>
                         <h3>
@@ -327,7 +327,7 @@ export default function Home() {
                         <div className="icon-box">
                         <img
                             className="icon-04"
-                            src="/assets/why-us/heigh reliability.png"
+                            src="/assets/why-us/Picture7.png"
                           ></img>
                         </div>
                         <h3>
@@ -351,11 +351,11 @@ export default function Home() {
         <section className="about-sections p_relative pb-0 mt-5">
           <div className="auto-container">
             <div className="row clearfix">
-              <div className="col-lg-4 col-md-12 col-sm-12 image-column">
+              <div className="col-lg-6 col-md-12 col-sm-12 image-column">
                 <div className="image_block_one">
                   <div className="image-box p_relative pr_50 mr_30">
                     <video
-                      className="image"
+                      className="five-video"
                       loop
                       muted
                       autoPlay
@@ -363,14 +363,14 @@ export default function Home() {
                       preload="false"
                     >
                       <source
-                        src="/assets/animations/Animation-1.mp4"
+                        src="/assets/animations/5C-1.mp4"
                         type="video/mp4"
                       />
                     </video>
                   </div>
                 </div>
               </div>
-              <div className="col-lg-8 col-md-12 col-sm-12 content-column">
+              <div className="col-lg-6 col-md-12 col-sm-12 content-column">
                 <div className="content_block_one">
                   <div className="content-box p_relative ml_30">
                     <div className="sec-title mb-1">
